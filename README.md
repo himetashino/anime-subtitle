@@ -45,3 +45,4 @@ ScaledBorderAndShadow: yes
   - 落第骑士英雄谭
 - 2016
   - 百武装战记
+  - 甲铁城的卡巴内利
