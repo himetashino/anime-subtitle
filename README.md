@@ -49,3 +49,5 @@ ScaledBorderAndShadow: yes
 - 2017
   - One Room
   - 笨女孩
+- 2018
+  - DARLING in the FRANXX
