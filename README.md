@@ -33,3 +33,4 @@ ScaledBorderAndShadow: yes
   - 我的脑内恋碍选项
 - 2014
   - Buddy Complex
+  - 搞姬日常
