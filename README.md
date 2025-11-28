@@ -40,3 +40,4 @@ ScaledBorderAndShadow: yes
   - 乐园追放
   - 漫画家与助手
   - 斩·赤红之瞳
+  - 最近，妹妹的样子有点怪
