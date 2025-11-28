@@ -36,3 +36,4 @@ ScaledBorderAndShadow: yes
   - 搞姬日常
   - 棺姬嘉依卡
   - 极黑的布伦希尔德
+  - 姐姐来了
