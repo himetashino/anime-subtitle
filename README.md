@@ -31,3 +31,5 @@ ScaledBorderAndShadow: yes
 - 2013
   - 翠星之加尔刚蒂亚
   - 我的脑内恋碍选项
+- 2014
+  - Buddy Complex
