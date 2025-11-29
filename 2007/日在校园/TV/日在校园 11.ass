@@ -29,9 +29,6 @@ Style: phone,黑体,23,&H00000000,&HF0FFFFFF,&H00FFFFFF,&HF0FFFFFF,-1,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-
-
-
 Dialogue: 0,0:02:45.56,0:02:47.53,OPC,NTP,0000,0000,0000,,{\fad(200,350)}总会有一刻
 Dialogue: 0,0:02:48.67,0:02:50.62,OPC,NTP,0000,0000,0000,,{\fad(200,350)}飘落下来
 Dialogue: 0,0:02:51.70,0:02:56.42,OPC,NTP,0000,0000,0000,,{\fad(200,350)}属于我的蓝色天使啊{\fnMS Gothic}…

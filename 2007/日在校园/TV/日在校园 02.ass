@@ -11,8 +11,6 @@ Timer: 100.0000
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
-Scroll Position: 42
-Active Line: 52
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

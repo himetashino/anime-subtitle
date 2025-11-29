@@ -28,9 +28,6 @@ Style: injp,DFGMaruGothic-Lt,22,&H00FFFFFF,&HF0000000,&H00B050FF,&HF0D9D9FF,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-
-
-
 Dialogue: 0,0:01:45.59,0:01:47.56,OPC,NTP,0000,0000,0000,,{\fad(200,350)}总会有一刻
 Dialogue: 0,0:01:48.70,0:01:50.65,OPC,NTP,0000,0000,0000,,{\fad(200,350)}飘落下来
 Dialogue: 0,0:01:51.73,0:01:56.45,OPC,NTP,0000,0000,0000,,{\fad(200,350)}属于我的蓝色天使啊{\fnMS Gothic}…

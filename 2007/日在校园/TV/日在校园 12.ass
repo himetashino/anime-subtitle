@@ -28,9 +28,6 @@ Style: injp,DFGMaruGothic-Lt,22,&H00FFFFFF,&HF0000000,&H00B050FF,&HF0D9D9FF,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-
-
-
 Dialogue: 0,0:00:00.10,0:00:05.00,jinggao,NTP,0000,0000,0000,,{\fad(500,500)\an8}本字幕仅限试看之用，禁止用于商业行为及未经同意修改其中任何内容，\N并希望您能在下载后24小时内删除，如您喜欢本作品，请支持购买正版。\N若因私自散布传播造成法律及相关一切问题，澄空学园&华盟字幕社概不负责。
 Dialogue: 0,0:00:05.10,0:00:10.00,jinggao,NTP,0000,0000,0000,,{\fad(500,500)\an8}翻译：黑田v、桂味素；校对：加藤ku；后期：西园寺z；\N繁体化：甘露寺侖人；特别感谢：清浦丸MK-II。
 Dialogue: 0,0:00:07.91,0:00:08.86,*Default,NTP,0000,0000,0000,,真冷啊

@@ -26,9 +26,6 @@ Style: jinggao,方正大黑_GBK,18,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-
-
-
 Dialogue: 0,0:00:48.57,0:00:50.54,OPC,NTP,0000,0000,0000,,{\fad(200,350)}总会有一刻
 Dialogue: 0,0:00:51.68,0:00:53.63,OPC,NTP,0000,0000,0000,,{\fad(200,350)}飘落下来
 Dialogue: 0,0:00:54.71,0:00:59.43,OPC,NTP,0000,0000,0000,,{\fad(200,350)}属于我的蓝色天使啊{\fnMS Gothic}…
