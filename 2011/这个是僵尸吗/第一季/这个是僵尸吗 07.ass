@@ -13,7 +13,7 @@ Video Zoom Percent: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正准圆_GBK,33,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,0.4,2,10,10,8,1
+Style: Default,苹方-简,33,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,0.4,2,10,10,8,1
 Style: ET,方正卡通简体,33,&H00FFFFFF,&H000000FF,&H56BA0BEE,&H6ABA0BEE,-1,0,0,0,100,100,0,0,1,2,3,2,10,10,10,1
 Style: OT,方正小标宋_GBK,33,&H00E6F1EF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: OPJP,FOT-RodinMaria Pro DB,30,&H00F7DFFF,&HF0000000,&H42BA0BEE,&H42AF047A,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,51,1
